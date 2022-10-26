@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+torchaudio==0.8.0
+tqdm
+torch
+warp_rnnt
